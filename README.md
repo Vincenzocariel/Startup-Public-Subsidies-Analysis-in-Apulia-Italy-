@@ -210,4 +210,4 @@ Author
 
 Vincenzo Cariello
 
-Piccola critica: non caricare su GitHub file chiamati merge con duplicati.csv o codice_finale(5).pdf. Sembra repo disordinata da lavoro in corso. Dai nomi puliti, altrimenti abbassi molto la percezione del progetto.
+IF YOU CAN'T OPEN THE CODE: https://nbviewer.org/github/Vincenzocariel/Startup-Public-Subsidies-Analysis-in-Apulia-Italy-/blob/main/startup_subsidy_analysis.ipynb.ipynb
